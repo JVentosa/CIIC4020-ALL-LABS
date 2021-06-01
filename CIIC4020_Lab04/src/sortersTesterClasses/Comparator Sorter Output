@@ -1,0 +1,75 @@
+Comparator Sorter output file
+
+*******************************************************
+*** Sorting Using Default Comparator<Integer>  ***
+*******************************************************
+
+ ---Original array of size 1 to sort:	40
+   Bubble Sort: 	40
+Selection Sort: 	40
+Insertion Sort: 	40
+
+ ---Original array of size 6 to sort:	90	93	54	30	65	79
+   Bubble Sort: 	30	54	65	79	90	93
+Selection Sort: 	30	54	65	79	90	93
+Insertion Sort: 	30	54	65	79	90	93
+
+ ---Original array of size 11 to sort:	33	82	6	14	12	99	6	18	97	88	16
+   Bubble Sort: 	6	6	12	14	16	18	33	82	88	97	99
+Selection Sort: 	6	6	12	14	16	18	33	82	88	97	99
+Insertion Sort: 	6	6	12	14	16	18	33	82	88	97	99
+
+ ---Original array of size 16 to sort:	28	88	86	24	3	24	40	78	43	15	46	6	33	4	31	39
+   Bubble Sort: 	3	4	6	15	24	24	28	31	33	39	40	43	46	78	86	88
+Selection Sort: 	3	4	6	15	24	24	28	31	33	39	40	43	46	78	86	88
+Insertion Sort: 	3	4	6	15	24	24	28	31	33	39	40	43	46	78	86	88
+
+
+*******************************************************
+*** Sorting Using IntegerComparator1  ***
+*******************************************************
+
+ ---Original array of size 1 to sort:	40
+   Bubble Sort: 	40
+Selection Sort: 	40
+Insertion Sort: 	40
+
+ ---Original array of size 6 to sort:	90	93	54	30	65	79
+   Bubble Sort: 	30	54	65	79	90	93
+Selection Sort: 	30	54	65	79	90	93
+Insertion Sort: 	30	54	65	79	90	93
+
+ ---Original array of size 11 to sort:	33	82	6	14	12	99	6	18	97	88	16
+   Bubble Sort: 	6	6	12	14	16	18	33	82	88	97	99
+Selection Sort: 	6	6	12	14	16	18	33	82	88	97	99
+Insertion Sort: 	6	6	12	14	16	18	33	82	88	97	99
+
+ ---Original array of size 16 to sort:	28	88	86	24	3	24	40	78	43	15	46	6	33	4	31	39
+   Bubble Sort: 	3	4	6	15	24	24	28	31	33	39	40	43	46	78	86	88
+Selection Sort: 	3	4	6	15	24	24	28	31	33	39	40	43	46	78	86	88
+Insertion Sort: 	3	4	6	15	24	24	28	31	33	39	40	43	46	78	86	88
+
+
+*******************************************************
+*** Sorting Using IntegerComparator2  ***
+*******************************************************
+
+ ---Original array of size 1 to sort:	40
+   Bubble Sort: 	40
+Selection Sort: 	40
+Insertion Sort: 	40
+
+ ---Original array of size 6 to sort:	90	93	54	30	65	79
+   Bubble Sort: 	93	90	79	65	54	30
+Selection Sort: 	93	90	79	65	54	30
+Insertion Sort: 	93	90	79	65	54	30
+
+ ---Original array of size 11 to sort:	33	82	6	14	12	99	6	18	97	88	16
+   Bubble Sort: 	99	97	88	82	33	18	16	14	12	6	6
+Selection Sort: 	99	97	88	82	33	18	16	14	12	6	6
+Insertion Sort: 	99	97	88	82	33	18	16	14	12	6	6
+
+ ---Original array of size 16 to sort:	28	88	86	24	3	24	40	78	43	15	46	6	33	4	31	39
+   Bubble Sort: 	88	86	78	46	43	40	39	33	31	28	24	24	15	6	4	3
+Selection Sort: 	88	86	78	46	43	40	39	33	31	28	24	24	15	6	4	3
+Insertion Sort: 	88	86	78	46	43	40	39	33	31	28	24	24	15	6	4	3
